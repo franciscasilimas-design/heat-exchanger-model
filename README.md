@@ -1,3 +1,7 @@
+![Temperature profile](docs/figures/solveur_nonlinear_T.png)
+
+
+
 Modélisation thermo-hydraulique d’un échangeur tubulaire
 
 Description du projet
