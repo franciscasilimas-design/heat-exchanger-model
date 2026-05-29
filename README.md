@@ -79,13 +79,13 @@ Profil de température
 
 Ajouter ici une figure du profil de température.
 
-![Profil température](docs/figures/profil_temperature.png)
+![Profil température](docs/figures/Solveur_thermohydraulique_matriciel_plot.png)
 
 Coefficient global d’échange
-![U vs Re](docs/figures/U_vs_Re.png)
+![U vs Re](docs/figures/Opti_U_Re_plot.png)
 
 Compromis thermo-hydraulique
-![U vs Ppompe](docs/figures/U_vs_Ppompe.png)
+![U vs Ppompe](docs/figures/Opti_Compromis_énergétique.png)
 
 Lancer le projet
 Installation
