@@ -75,16 +75,13 @@ Les simulations mettent en évidence :
 Le solveur non-linéaire converge en quelques itérations, traduisant un couplage non-linéaire modéré.
 
 Exemple de résultats
-Profil de température
-
-Ajouter ici une figure du profil de température.
-
+Profil de température:
 ![Profil température](docs/figures/Solveur_thermohydraulique_matriciel_plot.png)
 
-Coefficient global d’échange
+Coefficient global d’échange:
 ![U vs Re](docs/figures/Opti_U_Re_plot.png)
 
-Compromis thermo-hydraulique
+Compromis thermo-hydraulique:
 ![U vs Ppompe](docs/figures/Opti_Compromis_énergétique.png)
 
 Lancer le projet
@@ -102,14 +99,14 @@ python src/nonlinear_solver.py
 
 
 Compétences mobilisées:
--Thermique industrielle
--Mécanique des fluides
--Échangeurs thermiques
--Analyse énergétique
--Résolution numérique
--Méthodes matricielles
--Python scientifique
--Modélisation thermo-hydraulique
+Thermique industrielle
+Mécanique des fluides
+Échangeurs thermiques
+Analyse énergétique
+Résolution numérique
+Méthodes matricielles
+Python scientifique
+Modélisation thermo-hydraulique
 
 Perspectives d’amélioration:
 -prise en compte de géométries multitubulaires ;
