@@ -99,22 +99,22 @@ python src/nonlinear_solver.py
 
 
 Compétences mobilisées:
-Thermique industrielle
-Mécanique des fluides
-Échangeurs thermiques
-Analyse énergétique
-Résolution numérique
-Méthodes matricielles
-Python scientifique
-Modélisation thermo-hydraulique
+Thermique industrielle;
+Mécanique des fluides;
+Échangeurs thermiques;
+Analyse énergétique;
+Résolution numérique;
+Méthodes matricielles;
+Python scientifique;
+Modélisation thermo-hydraulique;
 
 Perspectives d’amélioration:
--prise en compte de géométries multitubulaires ;
--propriétés thermophysiques avancées ;
--corrélations turbulentes plus complexes ;
--optimisation multi-objectifs ;
--validation expérimentale ;
--comparaison avec des outils CFD.
+prise en compte de géométries multitubulaires ;
+propriétés thermophysiques avancées ;
+corrélations turbulentes plus complexes ;
+optimisation multi-objectifs ;
+validation expérimentale ;
+comparaison avec des outils CFD.
 
 Auteur:
 
