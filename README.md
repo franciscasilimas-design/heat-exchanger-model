@@ -1,4 +1,4 @@
-![Temperature profile](docs/figures/solveur_nonlinear_T.png)
+![Temperature profile](docs/figures/Solveur_nonlinear_T.png)
 
 
 
